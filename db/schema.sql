@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS chord_data;
+
+CREATE DATABASE chord_data;
